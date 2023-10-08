@@ -9,7 +9,6 @@ Alpha status, i.e. usable only if you are the developer.
 # Screenshot
 
 ![Alt text](./game-2023-10-07/chart.svg)
-<img src="./game-2023-10-07/chart.svg">
 
 # License
 
