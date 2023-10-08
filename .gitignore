@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.log
+tmp/
+/flake.lock
+/.direnv
+/tmp
+/system-index.txt
